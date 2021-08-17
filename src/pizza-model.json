@@ -1,0 +1,30 @@
+﻿[
+  {
+    "name": "Size",
+    "maxSelected": 1,
+    "options": [
+      { "name": "Small", "price": 5 },
+      { "name": "Medium", "price": 10 },
+      { "name": "Large", "price": 15 },
+      { "name": "Extra Large", "price": 20 }
+    ]
+  },
+  {
+    "name": "Topping",
+    "maxSelected": 6,
+    "discountType": "each-third-for-free",
+    "amountToGetDiscount": 2,
+    "options": [
+      { "name": "Mushrooms", "price": 1 },
+      { "name": "Olives", "price": 1 },
+      { "name": "Tomato", "price": 0 },
+      { "name": "Tuna", "price": 3 },
+      { "name": "Pineapple", "price": 3 },
+      { "name": "Seafood", "price": 5 },
+      { "name": "Pepperoni", "price": 2 },
+      { "name": "Bacon", "price": 1 },
+      { "name": "Onion", "price": 0 },
+      { "name": "Mozzarella", "price": 3 }
+    ]
+  }
+]
